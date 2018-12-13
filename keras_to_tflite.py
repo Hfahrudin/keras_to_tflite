@@ -1,9 +1,3 @@
-import cv2
-import sys
-from PIL import Image
-import numpy as np
-from scipy.misc import imread
-from skimage.transform import resize
 import argparse
 
 parser = argparse.ArgumentParser()
